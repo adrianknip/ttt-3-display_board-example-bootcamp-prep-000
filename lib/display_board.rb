@@ -5,13 +5,13 @@ def display_board
   # gap = "-----------"
   # row2 = [" ","|"," ","|"," "];
   # row3 = [" ","|"," ","|"," "];
-  row1 = " | | "
+  row1 = "  |  |  "
   gap = "-----------"
   row2 = [" ","|"," ","|"," "];
   row3 = [" ","|"," ","|"," "];
-  puts row1
-  puts gap
-  puts row2
-  puts gap
-  puts row3
+  # puts row1
+  # puts gap
+  # puts row2
+  # puts gap
+  # puts row3
 end
