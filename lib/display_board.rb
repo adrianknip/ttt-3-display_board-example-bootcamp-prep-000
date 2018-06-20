@@ -14,4 +14,9 @@ def display_board
   # puts row2
   # puts gap
   # puts row3
+  puts row1
+  puts gap
+  puts row1
+  puts gap
+  puts row1
 end
